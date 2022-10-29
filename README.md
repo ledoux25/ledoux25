@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ledoux25
+- 👋 Hi, I’m Sanguo Joseph Ledoux 
 - 👀 I’m interested in WEB, Mobile and game development
 - 🌱 I’m currently learning Mobile development with flutter and dart
 - 💞️ I’m looking to collaborate on a web project
