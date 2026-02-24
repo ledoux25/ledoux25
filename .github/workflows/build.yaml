@@ -1,4 +1,4 @@
-name: README build
+  name: README build
 on:
   push:
     branches:
@@ -37,4 +37,5 @@ jobs:
           git config --global user.email "github-actions-bot@ledoux25.github.io"
           git config --global user.name "ledoux25/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
+          git pull --rebase origin main
           git push
